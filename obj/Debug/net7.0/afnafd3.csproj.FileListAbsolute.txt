@@ -1,0 +1,14 @@
+C:\Users\Home\afnafd3\bin\Debug\net7.0\afnafd3.exe
+C:\Users\Home\afnafd3\bin\Debug\net7.0\afnafd3.deps.json
+C:\Users\Home\afnafd3\bin\Debug\net7.0\afnafd3.runtimeconfig.json
+C:\Users\Home\afnafd3\bin\Debug\net7.0\afnafd3.dll
+C:\Users\Home\afnafd3\bin\Debug\net7.0\afnafd3.pdb
+C:\Users\Home\afnafd3\obj\Debug\net7.0\afnafd3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Home\afnafd3\obj\Debug\net7.0\afnafd3.AssemblyInfoInputs.cache
+C:\Users\Home\afnafd3\obj\Debug\net7.0\afnafd3.AssemblyInfo.cs
+C:\Users\Home\afnafd3\obj\Debug\net7.0\afnafd3.csproj.CoreCompileInputs.cache
+C:\Users\Home\afnafd3\obj\Debug\net7.0\afnafd3.dll
+C:\Users\Home\afnafd3\obj\Debug\net7.0\refint\afnafd3.dll
+C:\Users\Home\afnafd3\obj\Debug\net7.0\afnafd3.pdb
+C:\Users\Home\afnafd3\obj\Debug\net7.0\afnafd3.genruntimeconfig.cache
+C:\Users\Home\afnafd3\obj\Debug\net7.0\ref\afnafd3.dll
